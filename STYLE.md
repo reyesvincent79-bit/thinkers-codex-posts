@@ -8,10 +8,10 @@ Books: (1) The Science of Learning Your Inner Speech, (2) Learn To Think For You
 2-7. six short essay slides (2-3 short paragraphs each, italics with *...*, plain, concrete, no statistics unless verified).
 8. closing question (type "question").
 9. bridge slide: "This is the thread behind the book *<Title>*." + one line.
-10. CTA slide: two short lines + button "LINK IN BIO".
+10. CTA slide: two short lines + button "COPY & PASTE LINK IN BIO" (TikTok bio link is not clickable).
 
 ## Caption
-Hook line, blank line, one engagement line (save/send/try), blank line, `From "<Book title>." Link in bio.`, blank line, at most 5 hashtags (Instagram limit). Do NOT include any #thinkerscodex hashtag.
+Hook line, blank line, one engagement line (save/send/try), blank line, `From "<Book title>." Copy and paste the link in bio.`, blank line, at most 5 hashtags (Instagram limit). Do NOT include any #thinkerscodex hashtag.
 
 ## Cadence
 4 per day, 8:00 AM / 12:00 PM / 5:00 PM / 9:00 PM America/New_York. Rotate books and topics; do not repeat a quote already used (check every */posts.json in this repo).
