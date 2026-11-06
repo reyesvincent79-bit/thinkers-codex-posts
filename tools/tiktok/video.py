@@ -7,11 +7,7 @@ slides=sorted(glob.glob(f'{DAY}/{PID}_[0-9][0-9].png'))
 CW,CH=680,850; cx0,cy0=(W-CW)//2,(H-CH)//2
 cards=[Image.open(p).convert('RGB').resize((CW,CH),Image.LANCZOS) for p in slides]
 BG=(243,235,218); INK=(30,26,22)
-exec(open('make.py').read().split('# perimeter path')[0].split("card=Image.open")[0].split("SRC, OUT")[0])  # imports only
-src=open('make.py').read()
 # reuse sprite()
-ns={}
-exec("import math\nfrom PIL import Image, ImageDraw\nINK=(30,26,22)\n"+src[src.index('def sprite'):src.index('# perimeter path')],ns)
 from sprite2 import sprite
 off=92; x0,y0,x1,y1=cx0-off,cy0-off,cx0+CW+off,cy0+CH+off
 segs=[((x0,y0),(x1,y0),0),((x1,y0),(x1,y1),90),((x1,y1),(x0,y1),180),((x0,y1),(x0,y0),270)]
