@@ -8,7 +8,7 @@ Books: (1) The Science of Learning Your Inner Speech, (2) Learn To Think For You
 2-7. six short essay slides (2-3 short paragraphs each, italics with *...*, plain, concrete, no statistics unless verified).
 8. closing question (type "question").
 9. bridge slide: "This is the thread behind the book *<Title>*." + one line.
-10. CTA slide: two short lines + button "COPY & PASTE LINK IN BIO" (TikTok bio link is not clickable).
+10. CTA slide: two short lines + button "COMMENT THINK FOR THE LINK".
 
 ## Caption
 Hook line, blank line, one engagement line (save/send/try), blank line, `From "<Book title>." Type the word "Think" and I'll send you the link.`, blank line, at most 5 hashtags (Instagram limit). Do NOT include any #thinkerscodex hashtag.
